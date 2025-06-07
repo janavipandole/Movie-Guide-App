@@ -1,0 +1,20 @@
+🎬 Movie Guide App
+Overview
+This Movie Guide App is built using HTML, CSS, and JavaScript. It allows users to search for movie details by fetching data from the OMDb API and dynamically rendering relevant information.
+
+Key Features
+✔ Real-Time Movie Search: Fetches movie details such as title, release date, IMDb rating, genre, and more. ✔ Dynamic UI Updates: Displays relevant details instantly using JavaScript DOM manipulation. ✔ Error Handling: Ensures smooth user experience with error messages for invalid searches. ✔ Responsive Design: Adapts well to different screen sizes with CSS media queries.
+
+Technical Highlights
+API Integration: Uses fetch() with async/await for retrieving movie data from the OMDb API.
+
+Efficient DOM Manipulation: Dynamically creates elements using document.createElement() for smooth updates.
+
+CSS Styling Enhancements: Clean UI with a professional navbar, color contrast, and responsive layout.
+
+Event Handling: Implements form submission and validation mechanisms for user interaction.
+
+Future Improvements
+🔹 Add localStorage support for saving favorite movies 🔹 Enhance search suggestions for better user experience 🔹 Implement pagination for browsing multiple search results
+
+🚀 Tech Stack: 🖥️ HTML | 🎨 CSS | ⚙️ JavaScript | 🌐 API Integration
